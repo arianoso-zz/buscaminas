@@ -10,7 +10,7 @@
 
     let filas = 10
     let columnas = 10
-    let lado = 30
+    let lado = 40
 
     let marcas = 0
 
