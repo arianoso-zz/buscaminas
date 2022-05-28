@@ -8,8 +8,8 @@
     let sonido_abrirarea = new Audio("sonidos/sonido_abrirarea.ogg")
     let sonido_marca = new Audio("sonidos/sonido_marca.ogg")
 
-    let filas = 10
-    let columnas = 10
+    let filas = 6
+    let columnas = 6
     let lado = 40
 
     let marcas = 0
